@@ -5,5 +5,5 @@ fn main() {
 
     //value of TV after 3 years 
 	let a = p * ( 1 - (r / 100)) ^ n; //formula for amount
-	println!("The amount is {}", a);
+	println!("The value of the TV after 3 years is {}", a);
 }
